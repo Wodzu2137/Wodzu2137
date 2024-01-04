@@ -11,14 +11,14 @@ First of all - let me introduce myself. My name is Igor, but most people call me
 	-   One month working for a web dev company
 	-   Two weeks working for a German IT company as a part of the Erasmus+ program
 
-1.  **Cooperation**
+2.  **Cooperation**
 
 	-   Lead front-end and web developer for top Polish FiveM servers
-	-   Working with renowned Polish company Tangiriboat on their new project MGM Trailers as the head web developer
 
-1.  **Custom free time projects and plans for the future**
+3.  **Custom free time projects and plans for the future**
 
 	-   Currently working on a web rework of the 1995 game “Warcraft II: Tides of Darkness” by Blizzard Entertainment
+ 	-   Learning Unreal Engine 5 and Blender	
 	-   Establishing Web Dev Limited company with my project partner within two years (that’s why I’ve got no portfolio website - waiting until we manage to set it all up)
 	-   Establishing Game Dev Limited company within two years, as I’ve gathered many talented people to get it started
 
