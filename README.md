@@ -1,7 +1,7 @@
 
-# Good Morning, GitHub!
+# Hello, GitHub!
 
-First of all - let me introduce myself. My name is Igor, but most people call me “Warchief” for dumb reasons. **Web Dev**, especially **JS, ReactJS**, and **NodeJS** are things that I’m the most passionate about. On the other hand, working with **Flutter**, **Android Studio**, and **C++** is not much of a deal either.
+While still in high school, I started working on various FiveM servers - many of which were a massive success and made my team the most renowned in the Polish FiveM community. I also helped people with their websites - providing them with payment methods and authorization systems. My biggest project in 2024 was a very sophisticated GUI for FiveM (user dashboard, finance management, organization management system, user-driven marketplace, NFS-like vehicle system). My other projects include a Warcraft 2 web port built with NextJS (WIP) and a user-friendly marketplace designed for game server owners (WIP).
 
 # Experience
 
@@ -11,26 +11,28 @@ First of all - let me introduce myself. My name is Igor, but most people call me
 	-   One month working for a web dev company
 	-   Two weeks working for a German IT company as a part of the Erasmus+ program
 
-2.  **Cooperation**
+2.  **Freelance work**
 
 	-   Lead front-end and web developer for top Polish FiveM servers
+ 	-   NextJS full-stack
+  	-   Operating on the core web stack 	
 
-3.  **Custom free time projects and plans for the future**
+3.  **Projects**
 
-	-   Currently working on a web rework of the 1995 game “Warcraft II: Tides of Darkness” by Blizzard Entertainment
- 	-   Learning Unreal Engine 5 and Blender	
-	-   Establishing Web Dev Limited company with my project partner within two years (that’s why I’ve got no portfolio website - waiting until we manage to set it all up)
-	-   Establishing Game Dev Limited company within two years, as I’ve gathered many talented people to get it started
+	-   Web port of Warcraft 2, focused on bringing the classic game to modern web standards (WIP, NextJS)
+	-   A massive market for game server owners, centered around flexibility, clarity, and store to end user relationships (WIP, NextJS)
+	-   An enormous FiveM GUI project, which includes a user dashboard, finance management, organization/clan management, NFS-like vehicle management, complex PvP UI, death screens, and more
+ 	-   Various other UI/UX creations, authorization and payment system integrations, general backend, optimization enhancements, bug fixes 
 
 ## My interests
 
-Since I can even remotely remember, computers are my hobby and passion, but that’s not everything. What I do during my free time could be concluded by the following:
+Since I can even remotely remember, computers have been my hobby and passion, but that’s not all. What I do during my free time could be concluded by the following:
 
 Studying: history, societal problems, geopolitics, math, physics
 
 Playing RTS video games
 
-Reading books (I seriously recommend anything by Glukhovsky)
+Reading books
 
 Playing Airsoft
 
